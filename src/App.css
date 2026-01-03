@@ -2,9 +2,16 @@
 :root {
     --orange: #f57c00;
     --orange-dark: #e65100;
-    --bg: #fff7ef;
+    /* --bg: #fff7ef; */
+    --bg: #ffffff;
     --card: #ffffff;
     --text: #222;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+
 }
 
 /* --- Global --- */
@@ -167,6 +174,11 @@ td:first-child {
         gap: 10px;
     }
 
+    img{
+       max-width: 100%;
+       height: auto;
+    }
+
     .lang-container {
         width: 100%;
         justify-content: space-between;
@@ -234,6 +246,11 @@ td:first-child {
 @media (max-width: 480px) {
     .hero h1 {
         font-size: 18px;
+    }
+
+     img{
+       max-width: 100%;
+       height: auto;
     }
 
     .hero p {
