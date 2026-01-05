@@ -13,13 +13,24 @@ img{
     height: auto;
 
 }
+/* --- Custom Font --- */
+@font-face {
+    font-family: 'Gujarati'; /* Name you want to use in your CSS */
+    src: url('/public/HindVadodara-Medium.ttf') format('truetype'); /* Path to your TTF file and format declaration */
+    font-weight: 500; /* Adjust based on the weight of your font */
+    font-style: normal;
+    font-display: swap; /* Helps prevent a blank page while the font loads */
+}
+
+
+
 
 /* --- Global --- */
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Segoe UI, Arial, sans-serif;
+    font-family: 'Gujarati', sans-serif;
 }
 
 body {
@@ -169,6 +180,9 @@ td:first-child {
 
 /* --- Responsive Media Queries --- */
 @media (max-width: 768px) {
+  *{
+    font-family:
+  }
     header {
         flex-direction: column;
         align-items: center;
