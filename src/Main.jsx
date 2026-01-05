@@ -6,9 +6,9 @@ import Til from './components/Til'
 function Main() {
   return (
     <div>
-      {/* <Moog /> */}
-      <Mung />
-      {/* <Til /> */}
+      <Moog />
+      {/* <Mung /> */}
+      <Til />
     </div>
   )
 }
