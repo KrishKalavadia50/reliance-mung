@@ -8,7 +8,7 @@ function Main() {
     <div>
       <Moog />
       {/* <Mung /> */}
-      <Til />
+      {/* <Til /> */}
     </div>
   )
 }
