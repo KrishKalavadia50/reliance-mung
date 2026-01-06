@@ -96,6 +96,17 @@ header {
     background-blend-mode: multiply;
 }
 
+.heroo{
+   background: linear-gradient(235deg, var(--bg), var(--text)), url('../public/images/Moog-Banner.png') no-repeat center/cover;
+    color: #fff;
+    padding: 26px;
+    height: 635px;
+    object-fit: cover;
+    border-radius: 16px;
+    margin-bottom: 20px;
+    background-blend-mode: multiply;
+}
+
 .hero h1 {
     margin-bottom: 10px;
 }

@@ -109,7 +109,7 @@ function Til() {
         },
       ],
       title: "પાક અને વિવિધતાનું નામ",
-      SubTitle: "તલ ગુજરાત-1,2,3,4,5,6, 10,માણેક, રુદ્રાક્ષ, અંબર, અલ્ટો સર્ટિફાઇડ, ફાઉન્ડેશન, ટ્રૂથફુલ",
+      SubTitle: "તલ અંબર, રુદ્રાક્ષ, અલ્ટો, માણેક, ટ્રૂથફુલ | ગુજરાત-૧,૨,૩,૪,૫,૬, ૧૦, સર્ટિફાઇડ, ફાઉન્ડેશન",
       CompanyName: "રિલાયન્સ સીડ (પ્રો.) કંપની",
       address:" સરનામું: ગીંગણી રોડ, તિરુપતિ બાયપાસ, શુભ હોન્ડા પાછળ, જામજોધપુર, જીલ્લો। જામનગર (ગુજરાત)",
       email: "ઈમેલ: rajujaviya269@gmail.com",
@@ -183,7 +183,7 @@ function Til() {
         },
       ],
       title: "फसल और विविधता का नाम",
-      SubTitle: "तिल गुजरात-1,2,3,4,5,6, 10,मानेक, रुद्राक्ष, एम्बर, अल्टो सर्टिफाइड, फाउंडेशन, ट्रूथफुल",
+      SubTitle: "तिल अंबर, रुद्राक्ष, अल्टो, मानेक, ट्रूथफुल | गुजरात-1,2,3,4,5,6, 10,सर्टिफाइड, फाउंडेशन",
       CompanyName: "रिलायंस सीड (प्रो.) कंपनी",
       address:" पता: गींगनी रोड, तिरुपति बाईपास, सुभ होंडा पीछे, जामजोधपुर, जिला। जामनगर (गुजरात)",
       email: "ईमेल: rajujaviya269@gmail.com",
@@ -258,7 +258,7 @@ function Til() {
         },
       ],
       title: "Crop and Variety Name",
-      SubTitle: "Til Gujarat-1,2,3,4,5,6, 10,Manek, Rudraksh, Amber, Alto Certified, Foundation, Truthful",
+      SubTitle: "Til Amber, Rudraksh, Alto, Manek, Truthful  | Gujarat-1,2,3,4,5,6, 10, Certified, Foundation",
       CompanyName: "RELIANCE SEED (PRO.) COMPANY",
       address:" ADDRESS: GINGANI ROAD, TIRUPATI BYPASS, BEHIND SUBH HONDA. JAMAJODHPUR, DIST. JAMNAGAR (GUJARAT)",
       email: "Email: rajujaviya269@gmail.com",
@@ -380,7 +380,7 @@ function Til() {
           <h2 id="title" style={{color: "#e65100", textAlign: "center"}}></h2>
           <h4 id="SubTitle" style={{textAlign: 'center'}}></h4>
           <img
-            src="/images/Last-Banner.png"
+            src="/images/1.png"
             alt="Til Crop"
             style={{ display: "block", margin: "auto", maxWidth: "100%" }}
           />
