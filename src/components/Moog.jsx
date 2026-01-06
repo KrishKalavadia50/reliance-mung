@@ -110,7 +110,7 @@ function Moog() {
       ],
       title: "પાક અને વિવિધતાનું નામ",
       SubTitle:
-        "મગ મહાલક્ષ્મી, મહારાજા, મહારાણી,  ટ્રૂથફુલ | ગુજરાત-4,5,6,7,8,10, સર્ટિફાઇડ, ફાઉન્ડેશન",
+        "ગુજરાત-4,5,6,7,8,10, સર્ટિફાઇડ, ફાઉન્ડેશન | મગ મહાલક્ષ્મી, મહારાજા, મહારાણી,  ટ્રૂથફુલ",
       CompanyName: "રિલાયન્સ સીડ (પ્રો.) કંપની",
       address:
         " સરનામું: ગીંગણી રોડ, તિરુપતિ બાયપાસ, શુભ હોન્ડા પાછળ, જામજોધપુર, જીલ્લો। જામનગર (ગુજરાત)",
@@ -186,7 +186,7 @@ function Moog() {
       ],
       title: "फसल और विविधता का नाम",
       SubTitle:
-        "मूग महालक्ष्मी, महाराजा, महारानी, ट्रूथफुल | गुजरात -4,5,6,7,8,10,सर्टिफाइड, फाउंडेशन",
+        "गुजरात -4,5,6,7,8,10,सर्टिफाइड, फाउंडेशन | मूग महालक्ष्मी, महाराजा, महारानी, ट्रूथफुल",
       CompanyName: "रिलायंस सीड (प्रो.) कंपनी",
       address:
         " पता: गींगनी रोड, तिरुपति बाईपास, सुभ होंडा पीछे, जामजोधपुर, जिला। जामनगर (गुजरात)",
@@ -262,7 +262,7 @@ function Moog() {
       ],
       title: "Crop and Variety Name",
       SubTitle:
-        "Moog Mahalakshmi, Maharaja, Maharani, Truthful  | Gujarat -4,5,6,7,8,10, Certified, Foundation",
+        "Gujarat -4,5,6,7,8,10, Certified, Foundation | Moog Mahalakshmi, Maharaja, Maharani, Truthful",
       CompanyName: "RELIANCE SEED (PRO.) COMPANY",
       address:
         " ADDRESS: GINGANI ROAD, TIRUPATI BYPASS, BEHIND SUBH HONDA. JAMAJODHPUR, DIST. JAMNAGAR (GUJARAT)",
