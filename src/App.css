@@ -107,6 +107,28 @@ header {
     background-blend-mode: multiply;
 }
 
+.herooo{
+   background: linear-gradient(235deg, var(--bg), var(--text)), url('../public/images/Urid.png') no-repeat center/cover;
+    color: #fff;
+    padding: 26px;
+    height: 635px;
+    object-fit: cover;
+    border-radius: 16px;
+    margin-bottom: 20px;
+    background-blend-mode: multiply;
+}
+
+.heroooo{
+   background: linear-gradient(235deg, var(--bg), var(--text)), url('../public/images/Cowpae.png') no-repeat center/cover;
+    color: #fff;
+    padding: 26px;
+    height: 635px;
+    object-fit: cover;
+    border-radius: 16px;
+    margin-bottom: 20px;
+    background-blend-mode: multiply;
+}
+
 .hero h1 {
     margin-bottom: 10px;
 }
@@ -192,7 +214,7 @@ td:first-child {
 /* --- Responsive Media Queries --- */
 @media (max-width: 768px) {
   *{
-    font-family:
+    font-family:Gujarati, sans-serif;
   }
     header {
         flex-direction: column;
