@@ -41,7 +41,7 @@ function Til() {
         chartRef.current.destroy();
       }
     };
-  }, []);
+  }, [setLanguage]);
 
   const content = {
     gu: {

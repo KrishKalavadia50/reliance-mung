@@ -41,7 +41,7 @@ function Udad() {
         chartRef.current.destroy();
       }
     };
-  }, []);
+  }, [setLanguage]);
 
   const content = {
     gu: {

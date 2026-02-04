@@ -42,7 +42,7 @@ function Cowpea() {
         chartRef.current.destroy();
       }
     };
-  }, []);
+  }, [setLanguage]);
 
   const content = {
     gu: {
