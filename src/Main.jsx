@@ -7,8 +7,6 @@ function Main() {
   return (
     <div>
       <Moog />
-      {/* <Mung /> */}
-      {/* <Til /> */}
     </div>
   )
 }

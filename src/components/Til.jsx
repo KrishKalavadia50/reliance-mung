@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import Chart, { SubTitle, Title } from "chart.js/auto";
+import Chart from "chart.js/auto";
 import "../App.css";
 
 function Til() {
