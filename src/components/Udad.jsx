@@ -110,7 +110,7 @@ function Udad() {
       ],
       title: "પાક અને વિવિધતાનું નામ",
       SubTitle:
-        "યુરીડ ટી-9, જીએયુ-1, 4, ગુજરાત-2 પ્રમાણિત અને ફાઉન્ડેશન કાલાસોના ખરો / ટ્રૂથફુલ",
+        "અડદ ટી-9, ગુજરાત-1, 2, 4 સર્ટિફાઇડ, ફાઉન્ડેશન | કાલાસોના ટ્રૂથફુલ",
       CompanyName: "રિલાયન્સ સીડ (પ્રો.) કંપની",
       address:
         " સરનામું: ગીંગણી રોડ, તિરુપતિ બાયપાસ, શુભ હોન્ડા પાછળ, જામજોધપુર, જીલ્લો। જામનગર (ગુજરાત)",
@@ -186,7 +186,7 @@ function Udad() {
       ],
       title: "फसल और विविधता का नाम",
       SubTitle:
-        "यूरिड टी-9, जीएयू-1, 4, गुजरात-2 प्रमाणित एवं फाउंडेशन कालासोना सत्य / ट्रूथफुल",
+        "उड़द टी-9, गुजरात-1, 2, 4 सर्टिफाइड, फाउंडेशन | कालासोना ट्रुथफुल",
       CompanyName: "रिलायंस सीड (प्रो.) कंपनी",
       address:
         " पता: गींगनी रोड, तिरुपति बाईपास, सुभ होंडा पीछे, जामजोधपुर, जिला। जामनगर (गुजरात)",
@@ -262,7 +262,7 @@ function Udad() {
       ],
       title: "Crop and Variety Name",
       SubTitle:
-        "URID T-9, GAU-1, 4, Gujarat-2 Certified & Foundation KALASONA Pure / Truthful",
+        "Urid T-9, Gujarat-1, 2, 4 Certified, Foundation | Kalasona Truthful",
       CompanyName: "RELIANCE SEED (PRO.) COMPANY",
       address:
         " ADDRESS: GINGANI ROAD, TIRUPATI BYPASS, BEHIND SUBH HONDA. JAMAJODHPUR, DIST. JAMNAGAR (GUJARAT)",
