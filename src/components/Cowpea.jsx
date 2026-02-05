@@ -104,7 +104,7 @@ function Cowpea() {
         content: "કાચી શીંગો તરીકે કાપણી લીલી શીંગો બન્યા પછી ખરીફ ઋતુમાં 45–50 દિવસ પછી અને રવિ ઋતુમાં 60 થી 65 દિવસ પછી કરી શકાય છે.",
       },
       {
-        title: "નોંધ",
+        title: "અગત્ય ની નોંધ",
         content: "આ પાકની ખેતી પદ્ધતિ તમારા વિસ્તારની આબોહવા, જમીનના પ્રકાર અને ઋતુ અનુસાર થોડી ફેરફાર થઈ શકે છે. વધુ માહિતી માટે તમારા નજીકના કૃષિ સલાહકાર અથવા કૃષિ યુનિવર્સિટીનો સંપર્ક કરવો હિતાવહ છે.",
       },
     ],
@@ -177,7 +177,7 @@ function Cowpea() {
         content: "हरी फलियों की कटाई खरीफ मौसम में लगभग 45–50 दिन बाद तथा रबी मौसम में 60–65 दिन बाद की जा सकती है।",
       },
       {
-        title: "नोट",
+        title: "अत्यंत महत्वपूर्ण नोट",
         content: "इस फसल की खेती विधि क्षेत्र की जलवायु, मिट्टी के प्रकार और मौसम के अनुसार थोड़ी भिन्न हो सकती है। अधिक जानकारी के लिए कृषि विशेषज्ञ या कृषि विश्वविद्यालय से संपर्क करें।",
       },
     ],
@@ -250,7 +250,7 @@ function Cowpea() {
         content: "Green pods can be harvested about 45–50 days after sowing in the Kharif season and 60–65 days after sowing in the Rabi season.",
       },
       {
-        title: "Note",
+        title: "Important Note",
         content: "Cultivation practices may vary slightly depending on local climate, soil type, and season. For detailed guidance, consult local agricultural experts or agricultural universities.",
       },
     ],
